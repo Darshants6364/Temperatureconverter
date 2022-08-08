@@ -1,2 +1,11 @@
-# Temperatureconverter
-This project is used to contvert temperature given in one form into temerature of another form. Link of the project https://temperatureconverter.netlify.com  
+# Temperature Converter
+Converts temperature (in C, F or K) to other units.
+
+### Live version: ###
+https://temperatureconverter.netlify.com
+
+### Created using: ###
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
