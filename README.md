@@ -2,7 +2,7 @@
 Converts temperature (in C, F or K) to other units.
 
 ### Live version: ###
-https://temperatureconverter.netlify.com
+ https://darshants6364.github.io/Temperatureconverter/
 
 ### Created using: ###
 - HTML
